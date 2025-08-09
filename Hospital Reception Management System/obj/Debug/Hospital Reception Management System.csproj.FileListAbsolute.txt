@@ -1,0 +1,22 @@
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\bin\Debug\Hospital Reception Management System.exe.config
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\bin\Debug\Hospital Reception Management System.exe
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\bin\Debug\Hospital Reception Management System.pdb
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital Reception Management System.csproj.AssemblyReference.cache
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.Loginfrm.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.Properties.Resources.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital Reception Management System.csproj.GenerateResource.cache
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital Reception Management System.csproj.CoreCompileInputs.cache
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital Reception Management System.exe
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital Reception Management System.pdb
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.UserRegistraion.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.AddReceptionist.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.AddNurse.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.AdminDashboard.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.AddDoctor.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.AddPatient.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.ReceptionistDashboard.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.Admin.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.Facilities.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.Settings.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.ForgortPassword.resources
+F:\Codes\Hospital Reception Management System\Hospital Reception Management System\obj\Debug\Hospital_Reception_Management_System.Checkout.resources
